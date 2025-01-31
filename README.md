@@ -2,3 +2,5 @@
 assignment 2 completed yesterday(22 jan 2025) with 28 questions
 assignment 3 completed today (23 jan 2025) with 36 questions of level1, level2, level3
 assignment 4 completed today(25 jan 2025) with 20 questions of level1 and level2 on arrays.
+assigment on java methods is completed on 28 jan 2025 with 37 questions of level1, level2, level3 on pushed on branch "features_28-01-2025".
+
