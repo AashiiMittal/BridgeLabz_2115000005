@@ -1,12 +1,29 @@
 #git nit </br>
-assignment 2 completed yesterday(22 jan 2025) with 28 questions </br>
-assignment 3 completed today (23 jan 2025) with 36 questions of level1, level2, level3 </br>
-assignment 4 completed today(25 jan 2025) with 20 questions of level1 and level2 on arrays. </br>
-assigment on java methods is completed on 28 jan 2025 with 37 questions of level1, level2, level3 on pushed on branch "features_28-01-2025". </br>
-Solved 12 questions of assignment on Strings on 29-01-2025 and pushed on branch "features_29-01-2025". </br>
-Solved 13 questions of level1 and level2 of assignment on Strings on 29-01-2025 and pushed on branch "features_29-01-2025". </br>
-Solved 3 questions of assignment on Object-Oriented programming (Java) on 31-01-2025 and pushed on branch "features_31-01-2025". </br>
-Solved 13 questions of assignment on Object-Oriented programming-Java Constructors, Instance vs. Class Variables, Access Modifiers on 02-02-2025 and pushed on branch "features_02-02-2025". </br>
-Solved 7 questions of assignment on Object Oriented programming - java keywords- this, static, final ,instanceof operator on 04-04-2025 and made a new branch Feature and from that branch , created a new branch Feature_04-04-2025, then pushed my assignment on this branch.
+✅ Assignment 2
+Completion Date: 22nd January 2025
+Total Questions: 28
+✅ Assignment 3
+Completion Date: 23rd January 2025
+Total Questions: 36
+Difficulty Levels: Level 1, Level 2, Level 3
+✅ Assignment 4
+Completion Date: 25th January 2025
+Total Questions: 20
+Topics Covered: Arrays (Level 1 & Level 2)
+✅ Java Methods Assignment
+Completion Date: 28th January 2025
+Total Questions: 37
+Difficulty Levels: Level 1, Level 2, Level 3
+Branch: features_28-01-2025
+Solved Problems
+🔹 Strings Assignment
+29th January 2025:
+12 questions pushed to features_29-01-2025
+13 questions (Level 1 & Level 2) pushed to features_29-01-2025
+🔹 Object-Oriented Programming (Java)
+31st January 2025: Solved 3 questions, pushed to features_31-01-2025
+2nd February 2025: Solved 13 questions on Constructors, Instance vs. Class Variables, Access Modifiers, pushed to features_02-02-2025
+4th April 2025: Solved 7 questions on Java Keywords (this, static, final, instanceof operator)
+Created a new branch Feature, then another branch Feature_04-04-2025, and pushed the assignment there.
 
 
