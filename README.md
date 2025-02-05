@@ -49,17 +49,17 @@
 
 ---
 
-### 📅 30-01-2025  
+### 📅 31-01-2025  
 **Submission: Java Class and Object**  
 ✅ **Solved 3 questions** on Object-Oriented Programming (Java)  
 - **Pushed on branch:** `features_31-01-2025`  
 
 ---
 
-### 📅 01-02-2025  
+### 📅 02-02-2025  
 **Submission: Java Constructors, Instance vs. Class Variables, Access Modifiers**  
 ✅ **Solved 13 questions**  
-- **Pushed on branch:** `features_01-02-2025`  
+- **Pushed on branch:** `features_02-02-2025`  
 
 ---
 
@@ -70,12 +70,8 @@
 - `static`  
 - `final`  
 - `instanceof` operator  
-✅ **Solved 7 questions**  
-- **Stored in branch:** `features_04-02-2025`  
+✅ **Solved 7 questions**
+- Created a new branch from Main branch "Feature" pushed it to this repo and then created a new branch "Feature_04-02-2025" from Feature.
+- **Pushed on branch:** `Feature_04-02-2025`  
 
 ---
-
-### 🔹 **How to Use This Repository?**  
-1. Clone the repository:  
-   ```bash
-   git clone <repository-url>
