@@ -82,7 +82,7 @@
 - `Class Diagram`  
 - `Sequence Diagram`
 - `Object modeling: Object relationships and Communication` <br>
-✅ **Solved 8 questions**
+✅ **Solved 8 questions** <br>
 ✅ **Made Object Diagram, Class Diagram, and Sequence Diagram for 2 questions**
 - **Pushed on branch:** `Feature_06-02-2025`
 
@@ -96,7 +96,7 @@
 - `Method Overriding`
 - `Constructor Inheritance`
 - `Polymorphism and Inheritance`
-- `Access Modifiers in Inheritance`
+- `Access Modifiers in Inheritance` <br>
 ✅ **Solved 11 questions**
 - **Pushed on branch:** `Feature_07-02-2025`
 
