@@ -86,4 +86,18 @@
 ✅ **Made Object Diagram, Class Diagram, and Sequence Diagram for 2 questions**
 - **Pushed on branch:** `Feature_06-02-2025`
 
+---
+### 📅 06-02-2025 
+**Submission: Inheritance Concept**
+✅**Topics Covered:**
+- `Single-Level Inheritance`
+- `Multilevel Inheritance`
+- `Hierarchical Inheritance`
+- `Method Overriding`
+- `Constructor Inheritance`
+- `Polymorphism and Inheritance`
+- `Access Modifiers in Inheritance`
+✅ **Solved 11 questions**
+- **Pushed on branch:** `Feature_07-02-2025`
+
 
