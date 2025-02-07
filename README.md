@@ -75,3 +75,15 @@
 - **Pushed on branch:** `Feature_04-02-2025`  
 
 ---
+### 📅 06-02-2025 
+**Submission: Object Oriented Design Principles**
+✅ **Topics Covered:**  
+- `Object Diagram`  
+- `Class Diagram`  
+- `Sequence Diagram`
+- `Object modeling: Object relationships and Communication`
+✅ **Solved 8 questions**
+✅ **Made Object Diagram, Class Diagram, and Sequence Diagram questions**
+- **Pushed on branch:** `Feature_06-02-2025`
+
+
