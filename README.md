@@ -81,9 +81,9 @@
 - `Object Diagram`  
 - `Class Diagram`  
 - `Sequence Diagram`
-- `Object modeling: Object relationships and Communication`
+- `Object modeling: Object relationships and Communication` <br>
 ✅ **Solved 8 questions**
-✅ **Made Object Diagram, Class Diagram, and Sequence Diagram questions**
+✅ **Made Object Diagram, Class Diagram, and Sequence Diagram for 2 questions**
 - **Pushed on branch:** `Feature_06-02-2025`
 
 
