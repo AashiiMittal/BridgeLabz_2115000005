@@ -100,4 +100,24 @@
 ✅ **Solved 11 questions**
 - **Pushed on branch:** `Feature_07-02-2025`
 
+---
+### 📅 10-02-2025 
+**Submission: Encapsulation, Interface, Abstract Classes, and Polymorphism **
+✅**Topics Covered:**
+- `Encapsulation`
+- `Polymorphism`
+- `Interface`
+- `Abstract Classes` <br>
+✅ **Solved 8 questions**
+- **Pushed on branch:** `Feature_10-02-2025`
+
+---
+### 📅 12-02-2025 
+**Submission: Data Structure - LinkedList**
+✅**Topics Covered:**
+- `Single Linked List`
+- `Double Linked List`
+- `Circular Linked List` <br>
+✅ **Solved 9 questions**
+- **Pushed on branch:** `Feature_12-02-2025`
 
