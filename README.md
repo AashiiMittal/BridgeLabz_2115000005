@@ -121,3 +121,14 @@
 ✅ **Solved 9 questions**
 - **Pushed on branch:** `Feature_12-02-2025`
 
+---
+### 📅 13-02-2025 
+**Submission: Stack , Queue, HashMap and Hashing Function**
+✅**Topics Covered:**
+- `Stack`
+- `Queue`
+- `HashMap and Hashing Function` <br>
+✅ **Solved 10 questions**
+- **Pushed on branch:** `Feature_13-02-2025`
+
+
