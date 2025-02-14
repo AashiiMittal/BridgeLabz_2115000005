@@ -131,4 +131,18 @@
 ✅ **Solved 10 questions**
 - **Pushed on branch:** `Feature_13-02-2025`
 
+---
+### 📅 14-02-2025 
+**Submission: Sorting Algorithms**
+✅**Topics Covered:**
+- `Bubble Sort`
+- `Insertion Sort`
+- `Merge Sort`
+- `Quick Sort`
+- `Heap Sort`
+- `Selection Sort`
+- `Counting Sort` <br>
+✅ **Solved 7 questions**
+- **Pushed on branch:** `Feature_14-02-2025`
+
 
