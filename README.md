@@ -145,4 +145,17 @@
 ✅ **Solved 7 questions**
 - **Pushed on branch:** `Feature_14-02-2025`
 
+---
+### 📅 16-02-2025 
+**Submission: Linear and Binary Search**
+✅**Topics Covered:**
+- `StringBuilder`
+- `StringBuffer`
+- `FileReader`
+- `InputStreamReader`
+- `Linear Search`
+- `Binary Search` <br>
+✅ **Solved 7 questions**
+- **Pushed on branch:** `Feature_16-02-2025`
+
 
