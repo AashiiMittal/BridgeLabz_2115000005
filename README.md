@@ -167,4 +167,18 @@
 ✅ **Solved 6 questions**
 - **Pushed on branch:** `Feature_17-02-2025`
 
+---
+### 📅 18-02-2025 
+**Submission: Java Generics**
+✅**Topics Covered:**
+- `Introduction to Generics`
+- `Type Parameters`
+- `Generic Classes`
+- `Generic Methods`
+- `Bounded Type Parameters`
+- `Wildcards` <br>
+✅ **Solved 5 questions**
+- **Pushed on branch:** `Feature_18-02-2025`
+
+
 
