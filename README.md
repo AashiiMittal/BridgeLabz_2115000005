@@ -180,5 +180,21 @@
 ✅ **Solved 5 questions**
 - **Pushed on branch:** `Feature_18-02-2025`
 
+---
+### 📅 19-02-2025 
+**Submission: Java Generics**
+✅**Topics Covered:**
+- `Overview of Collections Framework`
+- `What is the Collections Framework?`
+- `Hierarchy of Collections Framework`
+- `List Interface and Implementing Classes`
+- `Set Interface and Implementing Classes`
+- `Queue and Deque Interfaces`
+- `Map Interface and Its Implementations`
+- `Comparison of Different Implementations`
+- `Real-World Use Cases and Best Practices.` <br>
+✅ **Solved 25 questions**
+- **Pushed on branch:** `Feature_19-02-2025`
+
 
 
