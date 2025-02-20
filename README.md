@@ -207,8 +207,8 @@
    3. `ByteArray Streams`
    4. `Buffered Streams`
    5. `Reader and Writer`
-`Key Considerations`
-`Best Practices`<br>
+- `Key Considerations`
+- `Best Practices`<br>
 ✅ **Solved 10 questions**
 - **Pushed on branch:** `Feature_20-02-2025`
 
