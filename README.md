@@ -3,7 +3,7 @@
 ## 📌 Assignment Submissions  
 
 ### 📅 22-01-2025  
-**Submission: Programming Elements Practices**  
+**Submission: Programming Elements Practices**  <br>
 - Java Comments  
 - Java Basic Data Types  
 - Java Variables  
@@ -16,21 +16,21 @@
 ---
 
 ### 📅 23-01-2025  
-**Submission: Control Flow Practices**  
+**Submission: Control Flow Practices**  <br>
 ✅ **Assignment 3** completed with **36 questions**  
 - Difficulty Levels: Level 1, Level 2, Level 3  
 
 ---
 
 ### 📅 25-01-2025  
-**Submission: Arrays Practices**  
+**Submission: Arrays Practices**  <br>
 ✅ **Assignment 4** completed with **20 questions**  
 - Topics: Arrays (Level 1 & Level 2)  
 
 ---
 
 ### 📅 28-01-2025  
-**Submission: Java Methods Practices**  
+**Submission: Java Methods Practices**  <br>
 ✅ **Assignment on Java Methods** completed with **37 questions**  
 - Difficulty Levels: Level 1, Level 2, Level 3  
 - **Pushed on branch:** `features_28-01-2025`  
@@ -38,7 +38,7 @@
 ---
 
 ### 📅 29-01-2025  
-**Submission: Strings Handling and Functions**  
+**Submission: Strings Handling and Functions**  <br>
 ✅ **Topics Covered:**  
 - Usage of Strings  
 - Handling strings and common string functions  
@@ -50,21 +50,21 @@
 ---
 
 ### 📅 31-01-2025  
-**Submission: Java Class and Object**  
+**Submission: Java Class and Object**  <br>
 ✅ **Solved 3 questions** on Object-Oriented Programming (Java)  
 - **Pushed on branch:** `features_31-01-2025`  
 
 ---
 
 ### 📅 02-02-2025  
-**Submission: Java Constructors, Instance vs. Class Variables, Access Modifiers**  
+**Submission: Java Constructors, Instance vs. Class Variables, Access Modifiers**  <br>
 ✅ **Solved 13 questions**  
 - **Pushed on branch:** `features_02-02-2025`  
 
 ---
 
 ### 📅 04-02-2025  
-**Submission: Java Keywords & Operators (Level 1 Lab Practice)**  
+**Submission: Java Keywords & Operators (Level 1 Lab Practice)**  <br>
 ✅ **Topics Covered:**  
 - `this`  
 - `static`  
@@ -76,7 +76,7 @@
 
 ---
 ### 📅 06-02-2025 
-**Submission: Object Oriented Design Principles**
+**Submission: Object Oriented Design Principles** <br>
 ✅ **Topics Covered:**  
 - `Object Diagram`  
 - `Class Diagram`  
@@ -88,7 +88,7 @@
 
 ---
 ### 📅 07-02-2025 
-**Submission: Inheritance Concept**
+**Submission: Inheritance Concept** <br>
 ✅**Topics Covered:**
 - `Single-Level Inheritance`
 - `Multilevel Inheritance`
@@ -102,7 +102,7 @@
 
 ---
 ### 📅 10-02-2025 
-**Submission: Encapsulation, Interface, Abstract Classes, and Polymorphism **
+**Submission: Encapsulation, Interface, Abstract Classes, and Polymorphism ** <br>
 ✅**Topics Covered:**
 - `Encapsulation`
 - `Polymorphism`
@@ -113,7 +113,7 @@
 
 ---
 ### 📅 12-02-2025 
-**Submission: Data Structure - LinkedList**
+**Submission: Data Structure - LinkedList** <br>
 ✅**Topics Covered:**
 - `Single Linked List`
 - `Double Linked List`
@@ -123,7 +123,7 @@
 
 ---
 ### 📅 13-02-2025 
-**Submission: Stack , Queue, HashMap and Hashing Function**
+**Submission: Stack , Queue, HashMap and Hashing Function** <br>
 ✅**Topics Covered:**
 - `Stack`
 - `Queue`
@@ -133,7 +133,7 @@
 
 ---
 ### 📅 14-02-2025 
-**Submission: Sorting Algorithms**
+**Submission: Sorting Algorithms** <br>
 ✅**Topics Covered:**
 - `Bubble Sort`
 - `Insertion Sort`
@@ -147,7 +147,7 @@
 
 ---
 ### 📅 16-02-2025 
-**Submission: Linear and Binary Search**
+**Submission: Linear and Binary Search** <br>
 ✅**Topics Covered:**
 - `StringBuilder`
 - `StringBuffer`
@@ -160,7 +160,7 @@
 
 ---
 ### 📅 17-02-2025 
-**Submission: Runtime Analysis & Big-O Notation**
+**Submission: Runtime Analysis & Big-O Notation** <br>
 ✅**Topics Covered:**
 - `General Algorithm Best Practices`
 - `Time and space Complexity Optimization` <br>
@@ -169,7 +169,7 @@
 
 ---
 ### 📅 18-02-2025 
-**Submission: Java Generics**
+**Submission: Java Generics** <br>
 ✅**Topics Covered:**
 - `Introduction to Generics`
 - `Type Parameters`
@@ -182,7 +182,7 @@
 
 ---
 ### 📅 19-02-2025 
-**Submission: Java Collections**
+**Submission: Java Collections** <br>
 ✅**Topics Covered:**
 - `Overview of Collections Framework`
 - `What is the Collections Framework?`
@@ -198,15 +198,15 @@
 
 ---
 ### 📅 20-02-2025 
-**Submission: Java Streams**
+**Submission: Java Streams** <br>
 ✅**Topics Covered:**
 - `Java I/O Streams`
 - `Types of Streams`
-- `1. File Streams`
-- `2. Object Streams`
-- `3. ByteArray Streams`
-- `4. Buffered Streams`
-- `5. Reader and Writer`
+  `1. File Streams`
+  `2. Object Streams`
+  `3. ByteArray Streams`
+  `4. Buffered Streams`
+  `5. Reader and Writer`
 `Key Considerations`
 `Best Practices`<br>
 ✅ **Solved 10 questions**
