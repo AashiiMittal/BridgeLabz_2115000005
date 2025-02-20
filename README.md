@@ -182,7 +182,7 @@
 
 ---
 ### 📅 19-02-2025 
-**Submission: Java Generics**
+**Submission: Java Collections**
 ✅**Topics Covered:**
 - `Overview of Collections Framework`
 - `What is the Collections Framework?`
@@ -196,5 +196,20 @@
 ✅ **Solved 25 questions**
 - **Pushed on branch:** `Feature_19-02-2025`
 
+---
+### 📅 20-02-2025 
+**Submission: Java Streams**
+✅**Topics Covered:**
+- `Java I/O Streams`
+- `Types of Streams`
+- `1. File Streams`
+- `2. Object Streams`
+- `3. ByteArray Streams`
+- `4. Buffered Streams`
+- `5. Reader and Writer`
+`Key Considerations`
+`Best Practices`<br>
+✅ **Solved 10 questions**
+- **Pushed on branch:** `Feature_20-02-2025`
 
 
