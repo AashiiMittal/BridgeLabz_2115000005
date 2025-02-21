@@ -212,4 +212,23 @@
 ✅ **Solved 10 questions**
 - **Pushed on branch:** `Feature_20-02-2025`
 
+### 📅 21-02-2025 
+**Submission: Java Exceptions** <br>
+✅**Topics Covered:**
+- `Exceptions`
+- `Types of Exceptions`
+   1. `Checked Exceptions,`
+   2. `Unchecked Exceptions`
+   3. `Custom Exceptions`
+- `Handling Exceptions `
+   1. `try-catch blocks`
+   2. `try-catch-finally blocks`
+   3. `try-with-resources statement`
+   4. `throws clause`
+   5. `throw statement`
+- `Creating Custom Exceptions`
+- `Extending Exception Class`
+- `Defining Constructors` <br>
+✅ **Solved 10 questions**
+- **Pushed on branch:** `Feature_21-02-2025`
 
