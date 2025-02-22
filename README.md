@@ -232,3 +232,29 @@
 ✅ **Solved 10 questions**
 - **Pushed on branch:** `Feature_21-02-2025`
 
+  ---
+### 📅 22-02-2025 
+**Submission: JUnit and Regex** <br>
+✅**Topics Covered:**
+- `Regex `
+- `MetaCharacter`
+- `Quantifier`
+- `Common Patterns:`
+ 1. `Email Validation`
+ 2. `Password Strength`
+ 3. `Phone Number Format `
+- `Java Regex API `
+ 1. `Pattern`
+ 2. `Matcher`
+- `Methods:`
+ 1.`find()`
+ 2.`matches()`
+ 3.`replaceAll()`
+- `Introduction to JUnit Framework`
+- `JUnit Annotations`
+- `Writing Test Cases`
+- `Structure of a Test Class`
+- `Assertions`
+✅ **Solved 13 questions on JUnit and 15 questions on Regex**
+- **Pushed on branch:** `Feature_22-02-2025`
+
