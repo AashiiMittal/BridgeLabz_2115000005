@@ -261,13 +261,13 @@
 ---
 ### 📅 24-02-2025 
 **Submission: Annotations, Reflection** <br>
-✅**Topics Covered:**
+✅**Topics Covered:**<br>
 `Introduction to Annotations`
 - `Common Built-in Annotations`
 - `Creating Custom Annotations`
 - `Advanced Custom Annotations`
 - `Real-World Use Cases`
-- `Annotation Processing Tools`
+- `Annotation Processing Tools`<br>
 `Reflection`
 - `Understanding of Reflection`
 - `Using Reflection in Java`
